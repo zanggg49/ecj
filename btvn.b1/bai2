@@ -1,0 +1,27 @@
+1. Các kiểu dữ liệu trong Python:
+
+Số: int(số nguyên), float(số thực), complex(số phức)
+Chuỗi: str
+Logic: bool
+Danh sách: list
+Bộ dữ liệu: tuple
+Tập hợp: set
+Từ điển: dict
+
+2. Các toán tử trong Python:
+
+Số học: +, -, *, /, //, %, **
+So sánh: ==, !=, >, <, >=, <=
+Logic: and, or, not
+Gán: =, +=, -=, *=, /=
+Thành viên: in, not in
+Nhận dạng: is, is not
+
+3. Mệnh đề điều kiện và vòng lặp:
+
+Điều kiện: if, elif, else
+Vòng lặp: for, while, break, continue
+
+4. Kiểu dữ liệu True, False:
+
+ bool (logic)

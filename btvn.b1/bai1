@@ -1,0 +1,4 @@
+python là ngôn ngữ thông dịch do:
+    lệnh được thực thi trực tiếp theo từng dòng mã. sai ở dòng lệnh nào chương trình sẽ dừng ở dong lệnh đó
+nhưng nói python là ngôn ngữ vừa thông dịch vừ biên dịch cũng không sai
+    khi thực thi từng dòng mã, python sẽ biên dịch sang ngôn ngữ máy để máy có thể hiểu được sau đó được thông dịch
