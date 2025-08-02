@@ -1,0 +1,7 @@
+n1=set(input("nhập mã sinh viên bàn 1: "))
+n2=set(input("nhập mã sinh viên bàn 2: "))
+print("sinh viên đăng kí ",n1.union(n2))
+giao=n1.intersection(n2)
+print("sinh viên dăng kí cả 2 bàn ",giao)
+print("danh sách sinh viên đăng kí cả 2 bàn ", giao,sep="/")
+print("sinh viên đăng kí chỉ bàn 1 ", n1.difference(n2))
